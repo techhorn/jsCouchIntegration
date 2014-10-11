@@ -4,7 +4,7 @@ Javascript CouchDB Integration POC
 This is meant to be an example integration app to demonstrate javascript integration with couch.
 
 ###Prerequisites
-Make sure python is installed on the Ubuntu box. Before running following commands:
+Make sure python is installed on Ubuntu box. Before running following commands:
 
 ```
 	sudo apt-get install python-setuptools
